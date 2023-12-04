@@ -1,3 +1,5 @@
 Mango
 Banana
 Apple
+Guava
+Pineapple
